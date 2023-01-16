@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hey, I'm Ali Mirzabagher</h1>
 <h3 align="center"> Experienced and results-oriented Back-end Developer with a deep passion for the job. I love to be creative and inventive. ability to work in team environments, and strong attention to detail, Having very good implementation knowledge of OOPs concepts & Collection Frameworks.</h3>
 
@@ -9,6 +8,8 @@
 
 <a href="https://linkedin.com/in/samb2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samb2" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11902569/ali-mirzabagher-barzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11902569" height="30" width="40" /></a>
+
+</p>
 
 <div align="center">
 <h3 align="center">Languages and Tools</h3>
